@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'arial black';
+    font-size: 48px;
+    /*text-align: center;*/
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #f9f2f4;
+}
+
+table {
+    /*text-align: center;*/
+    border: 4px #c0a16b solid;
+    background-color: #bce8f1;
+}
+
+/*.new-input {
+    text-align:center;
+}
+
+.table {
+    text-align: center;
+}*/
